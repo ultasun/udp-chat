@@ -1,8 +1,8 @@
 # *UDP* Client/Server Echo Chat in *C*
 
 A simple [UDP](https://en.wikipedia.org/wiki/User_Datagram_Protocol) echo chat client/server program. While this does not implement [RFC 862](https://en.wikipedia.org/wiki/Echo_Protocol), it is the same idea.
-This was an assignment for LAN-375 at Bloomsburg University.
-This course was taught by Professor Robert Montante.
+This was an assignment for [LAN-375](https://montcs.bloomu.edu/375/) at Bloomsburg University.
+This course was taught by [Professor Robert Montante](https://montcs.bloomu.edu/).
 
 # Installation
 
